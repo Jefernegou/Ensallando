@@ -1,7 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .jefernne{
     background-color: rgb(145, 145, 33);
     padding: 20px;
     width: 50%;
+    border-radius: 30px ;
+    border: 3px solid black;
 }
 .Jefernne2{
     margin-left: 15px;
@@ -9,4 +17,21 @@
     border-radius: 15px;
     color: blue;
     background-color: aqua;
+    margin-bottom: 20px;
+}
+#EIMY{
+    background-color: palevioletred;
+    width: 200px;
+    padding: 35px;
+    border-radius: 30px ;
+    border: 3px solid black;
+    
+
+}
+#jefernnegou{
+    background-color: rgb(112, 135, 216);
+    width: 200px;
+    padding: 35px;
+    border-radius: 30px;
+    border: 3px solid red;
 }
